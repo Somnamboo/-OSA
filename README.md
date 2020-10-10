@@ -1,2 +1,2 @@
-# -OSA
+# OSA
 Ochotnicza Straż Antyklerykalna
